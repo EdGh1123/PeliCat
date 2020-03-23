@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ed.PeliCap.ListadoC">
+
+    <item
+        android:id="@+id/action_ordenar_genero"
+        android:orderInCategory="100"
+        android:title="@string/action_ordenar_genero"
+        />
+    <item
+        android:id="@+id/action_ordenar_nombre"
+        android:orderInCategory="100"
+        android:title="@string/action_ordenar_nombre"
+         />
+    <item
+        android:id="@+id/action_invertir"
+        android:orderInCategory="100"
+        android:title="@string/action_invertir"
+      />
+    <item
+        android:id="@+id/action_eliminar_primero"
+        android:orderInCategory="100"
+        android:title="@string/action_eliminar_primero"
+         />
+</menu>

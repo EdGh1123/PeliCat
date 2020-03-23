@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PeliCat</string>
+
+    <string name="action_listado">Listado</string>
+    <!-- textos menus -->
+    <string name="action_ordenar_genero">Ordenar por Genero</string>
+    <string name="action_ordenar_nombre">Ordenar Por Alfabeto</string>
+    <string name="action_invertir">Invertir lista</string>
+    <string name="action_eliminar_primero">Eliminar la primera</string>
+    <!-- texto formulario -->
+    <string name="nombre_pelicula">Nombre de la pelicula</string>
+    <string name="director">Director</string>
+    <string name="idioma">Idioma</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="genero">Genero</string>
+    <string name="guardar">Guardar</string>
+    <string name="Cancelar">Cancelar</string>
+</resources>

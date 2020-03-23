@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generos_Sp">
+        <item>Accion</item>
+        <item>Comedia</item>
+        <item>Drama</item>
+        <item>Suspenso</item>
+    </string-array>
+</resources>
